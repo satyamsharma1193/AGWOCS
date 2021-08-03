@@ -1,1 +1,1 @@
-Hi. This is the matlab code for AGWOCS hybrid metaheuristic. Just download the file and add te files to the matlab directly. After that just run the main.m file.
+Hi. This is the matlab code for AGWOCS hybrid metaheuristic. Just download the file and browse it from the matlab directory. After that run the main.m file.
